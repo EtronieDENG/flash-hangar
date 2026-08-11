@@ -53,7 +53,31 @@
 - **路径：** 设置 $\rightarrow$ `Files and links` $\rightarrow$ `Default location for new notes`
 - **配置：** 选择 `In the folder specified below` $\rightarrow$ 下方填入 **`00_Flash`**
 - **目的：** 按下 `Ctrl + N` 自动盲打存入闪念盒，免去在记录瞬间纠结分类。
-![[Pasted image 20260702204059.png]]
+![[Obsidian 文件与链接设置.png]]
+
+### 4. 附件统一归集到 `99_attachments`
+
+- **路径：** 设置 $\rightarrow$ `Files and links` $\rightarrow$ `Default location for new attachments`
+- **配置：** 选择 `In the folder specified below` $\rightarrow$ 下方填入 **`99_attachments`**
+- **目的：** 所有粘贴图片、截图自动进入 `99_attachments`，按项目/Areas 分类存放，保持根目录清爽。
+
+### 5. 模板文件夹 `98_templates`
+
+- **路径：** 设置 $\rightarrow$ `Templates` $\rightarrow$ `Template folder location`
+- **配置：** 填入 **`98_templates`**
+- **目的：** 按 `Ctrl+P` → `Insert template` 即可一键插入预设模板，不用每次手写 frontmatter。
+
+**可用模板：**
+
+| 模板 | 用途 | 使用场景 |
+|------|------|----------|
+| `tpl 闪念笔记` | 00_Flash 快速捕捉 | 脑子蹦出想法时，新建笔记后插入 |
+| `tpl 项目MOC` | 01_Projects 项目枢纽 | 新建项目文件夹后的主控笔记 |
+| `tpl 长期维护区` | 02_Areas 仪表盘 | 新增长线责任区时 |
+| `tpl 影视感悟` | 影视/剧集评论 | 看完一部影视作品后 |
+| `tpl 读书笔记` | 书籍阅读记录 | 开始读一本书时 |
+| `tpl 每日回顾` | 每日日记 | `Ctrl+P` → `Open today's daily note` |
+| `tpl 资源索引` | 03_Resources 资源卡 | 收藏外部教程/工具/文章时 |
 
 ---
 
